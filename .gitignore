@@ -2,3 +2,4 @@
 mail-service.cabal
 *~
 .idea
+dist/
